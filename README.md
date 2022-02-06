@@ -1,0 +1,2 @@
+# pythonlog
+snake oil shitpost
